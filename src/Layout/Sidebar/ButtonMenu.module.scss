@@ -1,0 +1,42 @@
+.menu {
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+.button {
+  font-size: 25px;
+  color: #707070;
+  padding: 12px 20px;
+  padding-top: 15px;
+  background-color: transparent;
+  border-top-right-radius: 17px;
+  border-bottom-right-radius: 17px;
+}
+::-webkit-scrollbar {
+  width: 4px;
+  background: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background: #dadcdd;
+}
+.isclick {
+  background-color: #ccc;
+}
+.btn-left {
+  margin-right: 15px;
+
+  justify-content: center;
+}
+.btn-right {
+  float: right;
+
+  size: 30px;
+}
+.left-title {
+  float: left;
+  display: flex;
+  padding-top: 5px;
+}
