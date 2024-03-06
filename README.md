@@ -5,8 +5,8 @@
 
 ## Công nghệ, Framework:
 
-Front end: React, Material UI
-Database: Firebase
+-  Front end: React, Material UI
+-  Database: Firebase
 
 ## Thuật toán
 Tìm cặp ghép cực đại trên đồ thị hai phía.
